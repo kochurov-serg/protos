@@ -1,4 +1,4 @@
-module github.com/GolangLessons/protos
+module github.com/kochurov-serg/protos
 
 go 1.23.2
 
